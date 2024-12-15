@@ -14,11 +14,17 @@ build_search_index = false
 highlight_code = false
 
 [extra]
-# Put all your custom variables here
+greeting = "Hello"
+iam = "I am"
 links = [
     { title = "E-Mail", url = "mailto:hello@ryancast.com", iconset = "fas", icon = "envelope" },
     { title = "GitHub", url = "https://github.com/r6t", icon = "github" },
 ]
 
 [extra.author]
-name = "Ryan"
+name = "Ryan Cast"
+
+[extra.theme]
+background = "#142530"
+foreground = "#FFF" # text and portrait border
+hover = "#005595" # link hover
