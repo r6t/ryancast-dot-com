@@ -19,6 +19,8 @@ iam = "I am"
 links = [
     { title = "E-Mail", url = "mailto:hello@ryancast.com", iconset = "fas", icon = "envelope" },
     { title = "GitHub", url = "https://github.com/r6t", icon = "github" },
+    { title = "LinkedIn", url = "https://www.linkedin.com/in/ryancast/", icon = "linkedin" },
+    { title = "Credly", url = "https://www.credly.com/users/ryan-cast", iconset = "fas", icon = "check-circle" },
 ]
 
 [extra.author]
